@@ -1,0 +1,12 @@
+{
+    "response": [
+    {
+      "filename": "file_name",
+      "url": "link_ota",
+      "md5sum": "in_md5sum",
+      "datetime": build_date,
+      "romtype": "unofficial",
+      "version": "15.1"
+    }
+  ]
+}
